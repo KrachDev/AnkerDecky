@@ -1,0 +1,429 @@
+[
+    {
+        "title": "",
+        "description": "",
+        "image": "https://ankergames.net/uploads/poster/05-2025/slide-9AabhoHLhr.webp",
+        "download_url": "https://ankergames.net/game/life-is-strange-double-exposure",
+        "version": ""
+    },
+    {
+        "title": "",
+        "description": "",
+        "image": "https://ankergames.net/uploads/poster/04-2025/slide-yeqOQnZuoM.webp",
+        "download_url": "https://ankergames.net/game/clair-obscur-expedition-33",
+        "version": ""
+    },
+    {
+        "title": "",
+        "description": "",
+        "image": "https://ankergames.net/uploads/poster/04-2025/slide-cxRPY3VsFO.webp",
+        "download_url": "https://ankergames.net/game/the-elder-scrolls-iv-oblivion-remastered",
+        "version": ""
+    },
+    {
+        "title": "",
+        "description": "",
+        "image": "https://ankergames.net/uploads/poster/03-2025/slide-ib4BeDPvzw.webp",
+        "download_url": "https://ankergames.net/game/the-last-of-us-part-ii-remastered",
+        "version": ""
+    },
+    {
+        "title": "",
+        "description": "",
+        "image": "https://ankergames.net/uploads/poster/03-2025/slide-E1NYjtatww.webp",
+        "download_url": "https://ankergames.net/game/schedule-i",
+        "version": ""
+    },
+    {
+        "title": "",
+        "description": "",
+        "image": "https://ankergames.net/uploads/poster/03-2025/slide-HwxFY4HSaR.webp",
+        "download_url": "https://ankergames.net/game/inzoi",
+        "version": ""
+    },
+    {
+        "title": "",
+        "description": "",
+        "image": "https://ankergames.net/uploads/poster/03-2025/slide-D1F6BZcHsJ.webp",
+        "download_url": "https://ankergames.net/game/wwe-2k25",
+        "version": ""
+    },
+    {
+        "title": "",
+        "description": "",
+        "image": "https://ankergames.net/uploads/poster/03-2025/slide-zjkWBDvPFv.webp",
+        "download_url": "https://ankergames.net/game/grand-theft-auto-v-enhanced",
+        "version": ""
+    },
+    {
+        "title": "",
+        "description": "",
+        "image": "https://ankergames.net/uploads/poster/11-2024/slide-JtIHXzZADJ.webp",
+        "download_url": "https://ankergames.net/game/lords-of-the-fallen",
+        "version": ""
+    },
+    {
+        "title": "Animal Spa",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/animal-spa",
+        "version": "V 1.0"
+    },
+    {
+        "title": "Cubic Odyssey",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/cubic-odyssey",
+        "version": "V 1.0.1...."
+    },
+    {
+        "title": "Life is Strange: Double Exposure",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/life-is-strange-double-exposure",
+        "version": "V 1.1.10..."
+    },
+    {
+        "title": "The Slormancer",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/the-slormancer",
+        "version": "V 1.0.01..."
+    },
+    {
+        "title": "The Precinct",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/the-precinct",
+        "version": "V 1.4.18..."
+    },
+    {
+        "title": "Clair Obscur: Expedition 33",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/clair-obscur-expedition-33",
+        "version": "V 56442"
+    },
+    {
+        "title": "The Elder Scrolls IV Oblivion Remastered",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/the-elder-scrolls-iv-oblivion-remastered",
+        "version": "B 181440..."
+    },
+    {
+        "title": "The Last of Us Part II Remastered",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/the-last-of-us-part-ii-remastered",
+        "version": "V 1.1.10..."
+    },
+    {
+        "title": "Schedule I",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/schedule-i",
+        "version": "V 0.3.5f..."
+    },
+    {
+        "title": "The Headliners",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/the-headliners",
+        "version": "V 1.2.1"
+    },
+    {
+        "title": "Black Mesa",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/black-mesa",
+        "version": "B 184311..."
+    },
+    {
+        "title": "Mafia",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/mafia",
+        "version": "1.0.3"
+    },
+    {
+        "title": "FOUNDRY",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/foundry",
+        "version": "V 0.6.0...."
+    },
+    {
+        "title": "Stardew Valley",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/stardew-valley",
+        "version": "V 1.6.15"
+    },
+    {
+        "title": "House Flipper 2",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/house-flipper-2",
+        "version": "V 1.7.3"
+    },
+    {
+        "title": "Frostpunk 2",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/frostpunk-2",
+        "version": "V 1.3.1"
+    },
+    {
+        "title": "Team Fortress Classic",
+        "description": "",
+        "image": "",
+        "download_url": "https://store.steampowered.com/app/20/Team_Fortress_Classic/",
+        "version": "Game is being processed. Please be patient while we prepare the files.StoreSteamRelease\n                                                    DateApril 07, 1999Version1.0Visit Game Store PageAll\n                                                    GenresClassicCo-OpFast-PacedFirst-PersonFPSMultiplayerShootersAverage processing time: 24 hours"
+    },
+    {
+        "title": "Disco Elysium – The Final Cut",
+        "description": "",
+        "image": "",
+        "download_url": "https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/",
+        "version": "Game is being processed. Please be patient while we prepare the files.StoreSteamRelease\n                                                    DateOctober 15, 2019VersionB 15656947Visit Game Store PageAll\n                                                    GenresRPGAtmosphericExplorationFunnyOpen WorldSexual ContentSingleplayerStory RichAverage processing time: 24 hours"
+    },
+    {
+        "title": "Survivalist: Invisible Strain",
+        "description": "",
+        "image": "",
+        "download_url": "https://store.steampowered.com/app/1054510/Survivalist_Invisible_Strain/?curator_clanid=4777282",
+        "version": "Game is being processed. Please be patient while we prepare the files.StoreSteamRelease\n                                                    DateJune 01, 2020VersionB 18231892Visit Game Store PageAll\n                                                    GenresColony SimCraftingHuntingRPGSimulationSurvivalThird PersonAverage processing time: 24 hours"
+    },
+    {
+        "title": "Farm Manager World",
+        "description": "",
+        "image": "",
+        "download_url": "https://store.steampowered.com/app/2206350/Farm_Manager_World/?curator_clanid=4777282",
+        "version": "Game is being processed. Please be patient while we prepare the files.StoreSteamRelease\n                                                    DateApril 21, 2025VersionV 1.4.0.0Visit Game Store PageAll\n                                                    GenresBuildingColorfulFarming SimManagementResource ManagementSimulationStrategyAverage processing time: 24 hours"
+    },
+    {
+        "title": "Kingdom’s Deck",
+        "description": "",
+        "image": "",
+        "download_url": "https://store.steampowered.com/app/2655590/Kingdoms_Deck/?curator_clanid=4777282",
+        "version": "Game is being processed. Please be patient while we prepare the files.StoreSteamRelease\n                                                    DateApril 28, 2025VersionV 1.0.01Visit Game Store PageAll\n                                                    GenresColony SimManagementSimulationStrategySurvivalTower DefenseWargameAverage processing time: 24 hours"
+    },
+    {
+        "title": "MEMORIAPOLIS",
+        "description": "",
+        "image": "",
+        "download_url": "https://store.steampowered.com/app/2228280/MEMORIAPOLIS/",
+        "version": "Game is being processed. Please be patient while we prepare the files.StoreSteamRelease\n                                                    DateApril 30, 2025VersionB 18376533Visit Game Store PageAll\n                                                    Genres3DBuildingColony SimEarly AccessHistoryIndieManagementSimulationStrategyAverage processing time: 24 hours"
+    },
+    {
+        "title": "Rebellion GODSOUL: Awakening",
+        "description": "",
+        "image": "",
+        "download_url": "https://store.steampowered.com/app/1213300/Rebellion_GODSOUL_Awakening/",
+        "version": "Game is being processed. Please be patient while we prepare the files.StoreSteamRelease\n                                                    DateMay 01, 2025VersionV 1.12Visit Game Store PageAll\n                                                    GenresAnimeCuteCyberpunkEarly AccessMemesRPGStory RichAverage processing time: 24 hours"
+    },
+    {
+        "title": "To Pixelia",
+        "description": "",
+        "image": "",
+        "download_url": "https://store.steampowered.com/app/1954160/To_Pixelia/?curator_clanid=4777282",
+        "version": "Game is being processed. Please be patient while we prepare the files.StoreSteamRelease\n                                                    DateMay 01, 2025VersionV 1.0.12Visit Game Store PageAll\n                                                    GenresCasualLife SimManagementOpen WorldRelaxingSandboxSimulationAverage processing time: 24 hours"
+    },
+    {
+        "title": "Ithya: Magic Studies",
+        "description": "",
+        "image": "",
+        "download_url": "https://store.steampowered.com/app/3330250/Ithya_Magic_Studies/?curator_clanid=4777282",
+        "version": "Game is being processed. Please be patient while we prepare the files.StoreSteamRelease\n                                                    DateMay 07, 2025Version1.0Visit Game Store PageAll\n                                                    GenresAtmosphericCasualFantasyLife SimRelaxingSingleplayerUtilitiesAverage processing time: 24 hours"
+    },
+    {
+        "title": "Ascension",
+        "description": "",
+        "image": "",
+        "download_url": "https://store.steampowered.com/app/2328480/Ascension/?curator_clanid=4777282",
+        "version": "Game is being processed. Please be patient while we prepare the files.StoreSteamRelease\n                                                    DateMay 09, 2025Version1.0Visit Game Store PageAll\n                                                    GenresBuildingEarly AccessExplorationManagementResource ManagementSandboxStrategyAverage processing time: 24 hours"
+    },
+    {
+        "title": "DOOM: The Dark Ages",
+        "description": "",
+        "image": "",
+        "download_url": "https://store.steampowered.com/app/3017860/DOOM_The_Dark_Ages/",
+        "version": "Game is being processed. Please be patient while we prepare the files.StoreSteamRelease\n                                                    DateMay 15, 2025Version1.0Visit Game Store PageAll\n                                                    GenresFast-PacedFirst-PersonFPSGoreSci-fiShootersStory RichAverage processing time: 24 hours"
+    },
+    {
+        "title": "Cubic Odyssey",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/cubic-odyssey",
+        "version": "V 1.0.1...."
+    },
+    {
+        "title": "Nioh 2 – The Complete Edition",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/nioh-2-the-complete-edition",
+        "version": "V 1.28.8"
+    },
+    {
+        "title": "Animal Spa",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/animal-spa",
+        "version": "V 1.0"
+    },
+    {
+        "title": "LEGO STAR WARS: The Force Awakens",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/lego-star-wars-the-force-awakens",
+        "version": "V 1.03"
+    },
+    {
+        "title": "Medal of Honor",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/medal-of-honor",
+        "version": "B 11521"
+    },
+    {
+        "title": "The Slormancer",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/the-slormancer",
+        "version": "V 1.0.01..."
+    },
+    {
+        "title": "God Of Weapons",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/god-of-weapons",
+        "version": "V 1.5.63"
+    },
+    {
+        "title": "Life is Strange: Double Exposure",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/life-is-strange-double-exposure",
+        "version": "V 1.1.10..."
+    },
+    {
+        "title": "The Evil Within 2",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/the-evil-within-2",
+        "version": "V 1.05"
+    },
+    {
+        "title": "The Precinct",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/the-precinct",
+        "version": "V 1.4.18..."
+    },
+    {
+        "title": "Alien Isolation",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/alien-isolation",
+        "version": "B 494065..."
+    },
+    {
+        "title": "Gas Station Simulator",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/gas-station-simulator",
+        "version": "V 1.0.2...."
+    },
+    {
+        "title": "Enshrouded",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/enshrouded",
+        "version": "B 184482..."
+    },
+    {
+        "title": "MADiSON",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/madison",
+        "version": "V 1.0.1"
+    },
+    {
+        "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/naruto-shippuden-ultimate-ninja-storm-3-full-burst",
+        "version": "V 1.0.0...."
+    },
+    {
+        "title": "Conquest Dark",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/conquest-dark",
+        "version": "V 0.16.6"
+    },
+    {
+        "title": "House Flipper",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/house-flipper",
+        "version": "V 1.2545"
+    },
+    {
+        "title": "FOUNDRY",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/foundry",
+        "version": "V 0.6.0...."
+    },
+    {
+        "title": "Revenge of the Savage Planet",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/revenge-of-the-savage-planet",
+        "version": "V 2025-5..."
+    },
+    {
+        "title": "Zombieville USA 3D",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/zombieville-usa-3d",
+        "version": "V 1.07"
+    },
+    {
+        "title": "Hitman: Absolution",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/hitman-absolution",
+        "version": "V 1.0.43..."
+    },
+    {
+        "title": "LEGO DC Super-Villains",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/lego-dc-super-villains",
+        "version": "B 405710..."
+    },
+    {
+        "title": "Tower Dominion",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/tower-dominion",
+        "version": "V 1.05"
+    },
+    {
+        "title": "Cash Cleaner Simulator",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/game/cash-cleaner-simulator",
+        "version": "V 1.0.1"
+    },
+    {
+        "title": "",
+        "description": "",
+        "image": "",
+        "download_url": "https://ankergames.net/games-list",
+        "version": ""
+    }
+]
