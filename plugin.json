@@ -1,11 +1,12 @@
 {
-  "name": "Example Plugin",
-  "author": "John Doe",
+  "name": "AnkerDecky",
+  "author": "KrachDev",
   "flags": ["debug", "_root"],
   "api_version": 1,
+  "main": "dist/index.js",
   "publish": {
     "tags": ["template", "root"],
-    "description": "Decky example plugin.",
+    "description": "Decky Freindly AnkerGames.",
     "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
   }
 }
